@@ -1,0 +1,9 @@
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
+.env
+redis/
+decorator/
+C:\Python\chatbot_opeai\share
+
